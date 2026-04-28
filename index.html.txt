@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GÖK KALKAN - Tarım Teknolojileri</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <nav class="navbar">
+        <div class="logo">🚀 GÖK KALKAN</div>
+        <ul class="nav-links">
+            <li><a href="#hero">Ana Sayfa</a></li>
+            <li><a href="#hakkimizda">Hakkımızda</a></li>
+            <li><a href="#proje">Projemiz</a></li>
+            <li><a href="#takim">Takımımız</a></li>
+        </ul>
+    </nav>
+
+    <section id="hero">
+        <div class="hero-content">
+            [span_0](start_span)<div class="badge"><i class="fas fa-trophy"></i> TUA ASTRO HACKATHON LİSELER ARASI 1.LİK[span_0](end_span)</div>
+            [span_1](start_span)<h1>GÖK KALKAN[span_1](end_span)</h1>
+            [span_2](start_span)<p>Tarım Teknolojilerini Modern Mühendislikle Buluşturan Disiplinler Arası Ekip[span_2](end_span)</p>
+            <a href="#proje" class="btn">Proje Detaylarını İncele</a>
+        </div>
+    </section>
+
+    <section id="hakkimizda" class="section-padding fade-in">
+        <div class="container">
+            [span_3](start_span)<h2 class="section-title">Hakkımızda[span_3](end_span)</h2>
+            <div class="about-text">
+                [span_4](start_span)<p>Liseler arası TUA Astro Hackathon'da elde ettiğimiz birincilik başarısının motivasyonuyla bir araya gelmiş, tarım teknolojilerini modern mühendislik çözümleriyle birleştirmeyi hedefleyen disiplinler arası yetkinliğe sahip beş kişilik bir ekibiz.[span_4](end_span)</p>
+                [span_5](start_span)<p>Ortak amacımız, Türkiye genelindeki zirai don problemine karşı etkili ve erişilebilir bir uyarı sistemi geliştirmektir.[span_5](end_span)</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="proje" class="section-padding fade-in">
+        <div class="container">
+            <h2 class="section-title">Proje Hedefi & Sistem Özellikleri</h2>
+            [span_6](start_span)<p class="project-desc">Türkiye genelinde her yıl milyonlarca liralık ürüne zarar veren zirai don olaylarına karşı çiftçileri önceden uyaracak akıllı bir sistem geliştirmeyi hedefliyoruz.[span_6](end_span) [span_7](start_span)Meteorolojik veri analizi, IoT sensör altyapısı ve gerçek zamanlı bildirim mekanizmalarını bir araya getirerek çiftçilerin don riskine karşı proaktif önlem almasını sağlayacağız.[span_7](end_span)</p>
+            
+            <div class="grid-container">
+                <div class="card feature-card">
+                    <i class="fas fa-satellite-dish"></i>
+                    [span_8](start_span)<h3>Gerçek Zamanlı İzleme[span_8](end_span)</h3>
+                    [span_9](start_span)<p>Sahaya konuşlanan loT sensörlerden alınan sıcaklık, nem ve hava verilerinin anlık olarak işlenmesi.[span_9](end_span)</p>
+                </div>
+                <div class="card feature-card">
+                    <i class="fas fa-mobile-alt"></i>
+                    [span_10](start_span)<h3>Akıllı Uyarı Sistemi[span_10](end_span)</h3>
+                    [span_11](start_span)<p>Makine öğrenimi destekli algoritmalar ile don riskinin önceden tahmin edilmesi ve SMS/uygulama bildirimleri.[span_11](end_span)</p>
+                </div>
+                <div class="card feature-card">
+                    <i class="fas fa-cogs"></i>
+                    [span_12](start_span)<h3>Mekanik Tasarım[span_12](end_span)</h3>
+                    [span_13](start_span)<p>Fusion 360 ile modellenmiş, saha koşullarına dayanıklı sensör istasyon tasarımı.[span_13](end_span)</p>
+                </div>
+                <div class="card feature-card">
+                    <i class="fas fa-users"></i>
+                    [span_14](start_span)<h3>Kullanıcı Odaklı Yaklaşım[span_14](end_span)</h3>
+                    [span_15](start_span)<p>Saha araştırmaları ve kullanıcı analizleriyle şekillendirilen, çiftçi dostu arayüz.[span_15](end_span)</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="takim" class="section-padding fade-in">
+        <div class="container">
+            [span_16](start_span)<h2 class="section-title">Takım Üyeleri[span_16](end_span)</h2>
+            <div class="team-grid">
+                
+                <div class="card team-card">
+                    <div class="avatar">SK</div>
+                    [span_17](start_span)<h3>Said Kenç[span_17](end_span)</h3>
+                    [span_18](start_span)<h4>Takım Lideri - Mekanik Tasarım & Modelleme[span_18](end_span)</h4>
+                    [span_19](start_span)<p>Fusion 360 ile projenin mekanik tasarım ve modelleme süreçlerini yönetmektedir.[span_19](end_span)</p>
+                </div>
+
+                <div class="card team-card">
+                    <div class="avatar">MB</div>
+                    [span_20](start_span)<h3>Muhammet Ali Bozbay[span_20](end_span)</h3>
+                    [span_21](start_span)<h4>Yazılım & Algoritma Geliştirici[span_21](end_span)</h4>
+                    [span_22](start_span)<p>Girişimin yazılım ve algoritma altyapısını kurgulayan teknik liderdir.[span_22](end_span)</p>
+                </div>
+
+                <div class="card team-card">
+                    <div class="avatar">EU</div>
+                    [span_23](start_span)<h3>Ekrem Uzunyol[span_23](end_span)</h3>
+                    [span_24](start_span)<h4>Stratejik Danışman[span_24](end_span)</h4>
+                    [span_25](start_span)<p>Girişimin stratejik vizyonunda danışmanlık desteği sağlamaktadır.[span_25](end_span)</p>
+                </div>
+
+                <div class="card team-card">
+                    <div class="avatar">FD</div>
+                    [span_26](start_span)<h3>Ferhat Demir[span_26](end_span)</h3>
+                    [span_27](start_span)<h4>Dijital Kimlik & Sunum Yöneticisi[span_27](end_span)</h4>
+                    [span_28](start_span)<p>Dijital kimlik oluşturma ve sunum süreçlerini yürütmektedir.[span_28](end_span)</p>
+                </div>
+
+                <div class="card team-card">
+                    <div class="avatar">AK</div>
+                    [span_29](start_span)<h3>Ali Eymen Karadağ[span_29](end_span)</h3>
+                    [span_30](start_span)<h4>Saha Araştırmaları & Kullanıcı Analizi[span_30](end_span)</h4>
+                    [span_31](start_span)<p>Saha araştırmaları ve kullanıcı analizlerini yönetmektedir.[span_31](end_span)</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Gök Kalkan Ekibi | TUA Astro Hackathon Liseler Arası 1. | [span_32](start_span)2026[span_32](end_span)</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
